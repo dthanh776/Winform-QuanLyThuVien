@@ -1,0 +1,14 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\BLL.dll.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\BLL.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\BLL.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\DataAccessLayer.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\DataAccessLayer.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\DataAccessLayer.dll.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\bin\Release\DTO.dll.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\obj\Release\BLL.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\BLL\obj\Release\BLL.pdb

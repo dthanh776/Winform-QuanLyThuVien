@@ -1,0 +1,11 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\bin\Release\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\bin\Release\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\bin\Release\DTO.dll.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DataAccessLayer\obj\Release\DataAccessLayer.pdb

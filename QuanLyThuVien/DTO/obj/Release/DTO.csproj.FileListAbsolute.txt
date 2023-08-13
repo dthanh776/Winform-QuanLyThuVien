@@ -1,0 +1,7 @@
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\bin\Release\DTO.dll.config
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\bin\Release\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\bin\Release\DTO.pdb
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\obj\Release\DTO.dll
+C:\Users\dthan\OneDrive\Desktop\Code\Winform\QLTV\QuanLyThuVien\DTO\obj\Release\DTO.pdb
